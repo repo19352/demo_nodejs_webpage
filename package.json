@@ -12,4 +12,7 @@
   "author": "Aditya",
   "license": "MIT",
   "description": "NodeJS Project with Expres FrameWork and Running in Docker Container"
+},
+"scripts": {
+  "lint": "eslint ."
 }
